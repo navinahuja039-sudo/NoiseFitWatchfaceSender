@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id analyzeButton
+id bleLogText
+id deviceListView
+id previewImage
+id progressBar
+id scanButton
+id scrollView
+id selectImageButton
+id sendButton
+id statusText
+layout activity_main
